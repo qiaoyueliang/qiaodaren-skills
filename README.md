@@ -1,6 +1,8 @@
 # 桥大人 AI Skills — 内容创作者的 AI 技能包
 
 > 3 个 Claude Code 自定义技能，覆盖塔罗文案、博主拆解、灵性对话。拿来即用，开源免费。
+> 
+> 🌐 仓库地址：https://github.com/qiaoyueliang/qiaodaren-skills
 
 ## 技能列表
 
